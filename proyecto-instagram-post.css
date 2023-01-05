@@ -42,6 +42,7 @@ header {
 
 .losmegusta {
     margin: 0;
+    margin-left: 10px;
 }
 
 .div-final {
@@ -50,4 +51,8 @@ header {
 
 .div-palabras {
     padding-left: 5px;
+}
+
+.el-texto {
+    padding: 10px;
 }
